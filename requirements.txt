@@ -19,3 +19,5 @@ tqdm==4.61.2
 Werkzeug==2.0.1
 streamlit
 gunicorn==19.9.0
+PorterStemmer
+stopwords
