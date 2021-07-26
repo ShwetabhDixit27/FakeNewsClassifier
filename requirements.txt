@@ -21,3 +21,4 @@ streamlit
 gunicorn==19.9.0
 PorterStemmer
 stopwords
+re
