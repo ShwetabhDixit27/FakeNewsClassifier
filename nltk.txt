@@ -1,2 +1,2 @@
 stopwords
-porter
+nltk.stem.porter.PorterStemmer
