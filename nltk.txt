@@ -1,3 +1,2 @@
-corpus
-stem
-porter
+stopwords
+porter_test
