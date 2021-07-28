@@ -1,2 +1,2 @@
 stopwords
-snowball
+porter_test
