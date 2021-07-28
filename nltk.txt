@@ -1,2 +1,2 @@
 stopwords
-porter_test
+porter
